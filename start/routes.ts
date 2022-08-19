@@ -21,5 +21,5 @@
 import Route from '@ioc:Adonis/Core/Route'
 
 Route.get('/helo', async () => {
-  return { hello: 'world' }
+  return { hello: 'world domingosxp' }
 })
